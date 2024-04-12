@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ezmi", "Ezmi\Ezmi.csproj", "{E8FB2024-EB19-41A6-932C-410663004E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleProject", "ExampleProject\ExampleProject.csproj", "{43B86A45-C6D6-4331-A910-3AB532687BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FB2024-EB19-41A6-932C-410663004E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FB2024-EB19-41A6-932C-410663004E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FB2024-EB19-41A6-932C-410663004E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FB2024-EB19-41A6-932C-410663004E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B86A45-C6D6-4331-A910-3AB532687BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B86A45-C6D6-4331-A910-3AB532687BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B86A45-C6D6-4331-A910-3AB532687BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B86A45-C6D6-4331-A910-3AB532687BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7739371A-38A7-4088-8308-FAD528AC4FD5}
+	EndGlobalSection
+EndGlobal
