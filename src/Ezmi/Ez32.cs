@@ -52,6 +52,11 @@ namespace Ezmi
                 currentAddress = new IntPtr(value);
             }
 
+            if (offsets.Length < 1)
+            {
+                targetAddress = baseAddress;
+            }
+
             pointerAddress = targetAddress;
             return valueBuffer;
         }
